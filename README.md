@@ -10,7 +10,7 @@ Welcome to the Snake Game implemented using Java Swing! This classic arcade game
 
 ## Screenshots
 
-![Game Screenshot]([Game Station Condensed.png](](Game Station Condensed.png)))
+![Game ScreenShort](images/example.png)
 
 ## Getting Started
 
