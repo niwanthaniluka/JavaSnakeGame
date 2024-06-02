@@ -59,5 +59,5 @@ If you have any questions or suggestions, feel free to reach out!
 
 ---
 
-🎮 Developed by [Your Name](https://www.linkedin.com/in/niwantha-niluka-b44859274/)
+🎮 Developed by [Niwantha N Senanayaka](https://www.linkedin.com/in/niwantha-niluka-b44859274/)
 
